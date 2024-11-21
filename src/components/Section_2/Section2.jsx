@@ -1,5 +1,5 @@
 import React from "react";
-import "./Section2.css";
+import "./section2.css";
 import icon1 from "../../assets/icon1.png"; // Change to your icon path
 import icon2 from "../../assets/icon2.png"; // Change to your icon path
 
