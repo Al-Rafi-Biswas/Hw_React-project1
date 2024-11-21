@@ -19,7 +19,7 @@ body {
 /* Common styling for the navbar */
 .navbar-all {
   display: flex;
-  justify-content: space-between; /* Space between navbar sections */
+  justify-content: space-between !important; /* Space between navbar sections */
   align-items: center; /* Center align vertically */
   padding: 10px 20px;
 }
